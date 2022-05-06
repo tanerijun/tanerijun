@@ -5,7 +5,7 @@ A coding enthusiast
 
 * 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning ... lots
 
 ### Skills
 
