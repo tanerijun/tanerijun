@@ -1,9 +1,9 @@
 Hi 👋 My name is Vincent Taneri
 ===============================
 
-A coding enthusiast
+Some info about me:
 
-* 🌍  I'm based in Taiwan
+* 🌍  I'm in Taiwan
 * ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
 * 🧠  I'm learning ... lots
 
