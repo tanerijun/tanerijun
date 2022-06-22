@@ -5,7 +5,7 @@ Some info about me:
 
 * 🌍  I'm in Taiwan
 * ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
-* 🧠  I'm learning ... lots
+* 🧠  I'm learning Rust
 
 ### Languages and Tools
 
