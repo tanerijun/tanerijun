@@ -5,7 +5,8 @@ Some info about me:
 
 * 🌍  I'm in Taiwan
 * ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
-* 🧠  I'm learning lots... everyday
+* 🛠 I love building cool stuffs
+* 🧠  I'm learning lots... everyday
 
 ### Socials
 
