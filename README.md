@@ -38,6 +38,13 @@ Welcome to my Github Profile
 
 ## 🤓 Books I read recently 
 <!-- GOODREADS-LIST:START -->
+- [Ascendance of a Bookworm: (light novel) Part 4 Volume 8](https://www.goodreads.com/review/show/5177984842?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.65)
+- [Attract The Right Girl: How To Find Your Perfect Girl And Make Her Chase You For A Relationship](https://www.goodreads.com/review/show/5164130474?utm_medium=api&utm_source=rss) by Bruce Bryans (⭐️3.82)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
+- [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
+- [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/4897141576?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
+- [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.45)
 <!-- GOODREADS-LIST:END -->
 
 ## 💰 You can support me by donating
