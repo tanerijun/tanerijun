@@ -5,8 +5,8 @@ Software Developer | Full Stack
 -------------------------------
 
 *   🌍  I'm based in Taiwan
-*   🛠 I love building cool stuffs
-*   🖥️  See my portfolio at [Vitaneri](http://vitaneri.com)
+*   🛠  I love building cool stuffs
+*   🖥️  Visit my blog at [Vitaneri](https://vitaneri.com)
 *   ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
 *   🧠  I'm learning lots...
    
