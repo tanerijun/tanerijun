@@ -36,7 +36,7 @@ Welcome to my Github Profile
 ## ✍️ Random Quote For You
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🤓 Books I read recently 
+## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Ascendance of a Bookworm: (light novel) Part 4 Volume 8](https://www.goodreads.com/review/show/5177984842?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.65)
 - [Attract The Right Girl: How To Find Your Perfect Girl And Make Her Chase You For A Relationship](https://www.goodreads.com/review/show/5164130474?utm_medium=api&utm_source=rss) by Bruce Bryans (⭐️3.82)
@@ -47,5 +47,5 @@ Welcome to my Github Profile
 - [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.45)
 <!-- GOODREADS-LIST:END -->
 
-## 💰 You can support me by donating
+## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tvince)
