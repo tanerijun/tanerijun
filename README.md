@@ -1,22 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Taneri
-======================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Taneri
 
-Welcome to my Github Profile 
-
+Welcome to my Github Profile
 
 ## 💫 About Me
-*   🌍  I'm based in Taiwan
-*   🛠  I love building cool stuffs
-*   ✍️  I write articles on [my blog](https://vitaneri.com) sometimes
-*   ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
-*   🧠  I love learning new stuffs
-*   📚 I spend most of my free time [reading](https://www.goodreads.com/user/show/74091755-tvince)
-*   📺 Or [watch anime](https://myanimelist.net/profile/Revirial)
-*   🎮 Or gaming 
+- 🌍  I'm based in Taiwan
+- 🛠  I love building cool stuffs
+- ✍️  I write articles on [my blog](https://vitaneri.com) sometimes
+- ✉️  You can contact me at [tanerivince@gmail.com](mailto:tanerivince@gmail.com)
+- 🧠  I love learning new stuffs
+- 📚 I spend most of my free time [reading](https://www.goodreads.com/user/show/74091755-tvince)
+- 📺 Or [watch anime](https://myanimelist.net/profile/Revirial)
+- 🎮 Or gaming
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-taneri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tanerivince) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vincent-taneri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tanerivince)
 
 
 ## 💻 Tech Stack
@@ -36,16 +34,24 @@ Welcome to my Github Profile
 ## ✍️ Random Quote For You
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Ascendance of a Bookworm: (light novel) Part 4 Volume 8](https://www.goodreads.com/review/show/5177984842?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.65)
 - [Attract The Right Girl: How To Find Your Perfect Girl And Make Her Chase You For A Relationship](https://www.goodreads.com/review/show/5164130474?utm_medium=api&utm_source=rss) by Bruce Bryans (⭐️3.82)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
-- [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
+- [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg Jenner (⭐️3.62)
 - [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/4897141576?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
 - [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.45)
 <!-- GOODREADS-LIST:END -->
 
+
+## ✍️ My Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 💰 Support Me
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tvince)
