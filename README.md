@@ -49,6 +49,11 @@ Welcome to my Github Profile
 
 ## ✍️ My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide To Sorting In Go](https://vitaneri.com/guide-to-sorting-in-go/)
+- [Implementing Map, Filter, And Reduce Using Generic In Go](https://vitaneri.com/implementing-map-filter-and-reduce-using-generic-in-go/)
+- [Check For Nil Interface In Go](https://vitaneri.com/check-for-nil-interface-in-go/)
+- [Understanding Mapped Types In TypeScript](https://vitaneri.com/understanding-mapped-types-in-typescript/)
+- [Introduction To Generics In TypeScript](https://vitaneri.com/introduction-to-generics-in-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 
