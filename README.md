@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Ascendance of a Bookworm: Part 5 Volume 1](https://www.goodreads.com/review/show/5192830598?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.68)
+- [Ascendance of a Bookworm: Part 5 Volume 1](https://www.goodreads.com/review/show/5192830598?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.67)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
 - [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️4)
