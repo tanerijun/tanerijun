@@ -49,11 +49,11 @@ Welcome to my Github Profile
 
 ## ✍️ My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Vitest, Testing Library, And jest-dom In Your Vite Project](https://vitaneri.com/posts/setting-up-vitest-testing-library-and-jest-dom-in-your-vite-project/)
 - [Guide To Sorting In Go](https://vitaneri.com/posts/guide-to-sorting-in-go/)
 - [Implementing Map, Filter, And Reduce Using Generic In Go](https://vitaneri.com/posts/implementing-map-filter-and-reduce-using-generic-in-go/)
 - [Check For Nil Interface In Go](https://vitaneri.com/posts/check-for-nil-interface-in-go/)
 - [Understanding Mapped Types In TypeScript](https://vitaneri.com/posts/understanding-mapped-types-in-typescript/)
-- [Introduction To Generics In TypeScript](https://vitaneri.com/posts/introduction-to-generics-in-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 
