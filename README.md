@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身V」](https://www.goodreads.com/review/show/5259101383?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.67)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
