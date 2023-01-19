@@ -37,8 +37,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Attract The Right Girl: How To Find Your Perfect Girl And Make Her Chase You For A Relationship](https://www.goodreads.com/review/show/5164130474?utm_medium=api&utm_source=rss) by Bruce Bryans (⭐️3.84)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
-- [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身V」](https://www.goodreads.com/review/show/5259101383?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.67)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
