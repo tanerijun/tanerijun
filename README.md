@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Read Her Signs: Understanding Women - From Meeting To Dating To Intimacy (Stella Tells All)](https://www.goodreads.com/review/show/5282154141?utm_medium=api&utm_source=rss) by Stella Belmar (⭐️4)
+- [The Five Love Languages: How to Express Heartfelt Commitment to Your Mate](https://www.goodreads.com/review/show/5282519066?utm_medium=api&utm_source=rss) by Gary Chapman (⭐️4.21)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
