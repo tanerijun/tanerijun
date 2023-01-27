@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now](https://www.goodreads.com/review/show/5293425125?utm_medium=api&utm_source=rss) by Meg Jay (⭐️4.1)
+- [Siddhartha](https://www.goodreads.com/review/show/5296583882?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.05)
 - [The Five Love Languages: How to Express Heartfelt Commitment to Your Mate](https://www.goodreads.com/review/show/5282519066?utm_medium=api&utm_source=rss) by Gary Chapman (⭐️4.21)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
