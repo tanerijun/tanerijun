@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Siddhartha](https://www.goodreads.com/review/show/5296583882?utm_medium=api&utm_source=rss) by Hermann Hesse (⭐️4.05)
+- [Hamlet](https://www.goodreads.com/review/show/5299428667?utm_medium=api&utm_source=rss) by William Shakespeare (⭐️4.02)
 - [The Five Love Languages: How to Express Heartfelt Commitment to Your Mate](https://www.goodreads.com/review/show/5282519066?utm_medium=api&utm_source=rss) by Gary Chapman (⭐️4.21)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
