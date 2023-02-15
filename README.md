@@ -37,7 +37,6 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Seduction: From Shy Guy To Ladies Man - Get The Girl, Overcome Approach Anxiety, How To Attract The Most Beautiful Women, Sex, Confidence, Charisma - Seduction ... Honesty, Meditation, Attractive Man)](https://www.goodreads.com/review/show/5312591105?utm_medium=api&utm_source=rss) by Chris Bale (⭐️3.08)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/4938079442?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.39)
