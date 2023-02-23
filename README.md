@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [The River](https://www.goodreads.com/review/show/5364855187?utm_medium=api&utm_source=rss) by Peter Heller (⭐️3.78)
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/review/show/5354542867?utm_medium=api&utm_source=rss) by Robert C. Martin (⭐️4.26)
 - [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.62)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
