@@ -37,9 +37,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [A Duke for Diana (Designing Debutantes, #1)](https://www.goodreads.com/review/show/5376710200?utm_medium=api&utm_source=rss) by Sabrina Jeffries (⭐️3.63)
+- [A Duke for Diana (Designing Debutantes, #1)](https://www.goodreads.com/review/show/5376710200?utm_medium=api&utm_source=rss) by Sabrina Jeffries (⭐️3.64)
 - [A Room with a View](https://www.goodreads.com/review/show/5374149621?utm_medium=api&utm_source=rss) by E.M. Forster (⭐️3.92)
-- [The River](https://www.goodreads.com/review/show/5364855187?utm_medium=api&utm_source=rss) by Peter Heller (⭐️3.78)
 - [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.63)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
