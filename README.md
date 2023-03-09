@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身VI」](https://www.goodreads.com/review/show/5275364994?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.67)
+- [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身VI」](https://www.goodreads.com/review/show/5275364994?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.7)
 - [A Duke for Diana (Designing Debutantes, #1)](https://www.goodreads.com/review/show/5376710200?utm_medium=api&utm_source=rss) by Sabrina Jeffries (⭐️3.64)
 - [A Room with a View](https://www.goodreads.com/review/show/5374149621?utm_medium=api&utm_source=rss) by E.M. Forster (⭐️3.92)
 - [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.63)
