@@ -37,9 +37,9 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [All About Love: New Visions](https://www.goodreads.com/review/show/5417975731?utm_medium=api&utm_source=rss) by bell hooks (⭐️4.12)
 - [Web Development with Node and Express: Leveraging the JavaScript Stack](https://www.goodreads.com/review/show/5415603602?utm_medium=api&utm_source=rss) by Ethan  Brown (⭐️3.94)
 - [A Duke for Diana (Designing Debutantes, #1)](https://www.goodreads.com/review/show/5376710200?utm_medium=api&utm_source=rss) by Sabrina Jeffries (⭐️3.63)
-- [A Room with a View](https://www.goodreads.com/review/show/5374149621?utm_medium=api&utm_source=rss) by E.M. Forster (⭐️3.92)
 - [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.64)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
