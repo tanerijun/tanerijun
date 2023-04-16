@@ -37,8 +37,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.45)
-- [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.64)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.44)
+- [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.63)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.64)
