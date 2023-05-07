@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Fullstack Vue: The Complete Guide to Vue.js](https://www.goodreads.com/review/show/4715687786?utm_medium=api&utm_source=rss) by Hassan Djirdeh (⭐️4.24)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.44)
 - [The Social Skills Guidebook: Manage Shyness, Improve Your Conversations, and Make Friends, Without Giving Up Who You Are](https://www.goodreads.com/review/show/5347635686?utm_medium=api&utm_source=rss) by Chris MacLeod (⭐️3.63)
