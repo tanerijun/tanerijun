@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [The Creative Act: A Way of Being](https://www.goodreads.com/review/show/5555996175?utm_medium=api&utm_source=rss) by Rick Rubin (⭐️4.18)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/5535016938?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.68)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.42)
@@ -46,7 +47,6 @@ Welcome to my Github Profile
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
 - [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️4)
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/4897141576?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
-- [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.45)
 <!-- GOODREADS-LIST:END -->
 
 
