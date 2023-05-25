@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [The Creative Act: A Way of Being](https://www.goodreads.com/review/show/5555996175?utm_medium=api&utm_source=rss) by Rick Rubin (⭐️4.18)
+- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5570694331?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/5535016938?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.68)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.42)
