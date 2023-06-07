@@ -37,7 +37,6 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身VII」](https://www.goodreads.com/review/show/5408385852?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.86)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5570694331?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/5535016938?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.68)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
@@ -47,6 +46,7 @@ Welcome to my Github Profile
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
 - [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️4)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/review/show/4897141576?utm_medium=api&utm_source=rss) by Aditya Y. Bhargava (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 
