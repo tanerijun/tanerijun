@@ -52,11 +52,11 @@ Welcome to my Github Profile
 
 ## ✍️ My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enforce String Casing in TypeScript: Creating Uppercase, Lowercase, and Capitalized String Types](https://vitaneri.com/posts/enforce-string-casing-in-typescript-creating-uppercase-lowercase-and-capitalized-string-types)
 - [Test Svelte Component Slot Using svelte-htm](https://vitaneri.com/posts/test-svelte-component-slot-using-svelte-htm)
 - [Code Splitting In React Using React.lazy and React.Suspense](https://vitaneri.com/posts/code-splitting-in-react-using-reactlazy-and-reactsuspense)
 - [Better React Context DX With Custom Provider And Consumer Hook](https://vitaneri.com/posts/better-react-context-dx-with-custom-provider-and-consumer-hook)
 - [Optimize React&#39;s useState Hook With Lazy Initialization](https://vitaneri.com/posts/optimize-reacts-usestate-hook-with-lazy-initialization)
-- [Setting Up Vitest, Testing Library, And jest-dom In Your Vite Project](https://vitaneri.com/posts/setting-up-vitest-testing-library-and-jest-dom-in-your-vite-project)
 <!-- BLOG-POST-LIST:END -->
 
 
