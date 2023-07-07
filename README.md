@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [無職転生 ~異世界行ったら本気だす~ 26](https://www.goodreads.com/review/show/5665939007?utm_medium=api&utm_source=rss) by Rifujin na Magonote (⭐️4.5)
+- [無職転生 ~異世界行ったら本気だす~ 26](https://www.goodreads.com/review/show/5665939007?utm_medium=api&utm_source=rss) by Rifujin na Magonote (⭐️4.52)
 - [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5570694331?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/5535016938?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.68)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
