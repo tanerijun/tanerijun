@@ -52,11 +52,11 @@ Welcome to my Github Profile
 
 ## ✍️ My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Remove The &quot;Clear All&quot; Button From Search Input](https://vitaneri.com/posts/how-to-remove-the-clear-all-button-from-search-input)
-- [Enforce String Casing in TypeScript: Creating Uppercase, Lowercase, and Capitalized String Types](https://vitaneri.com/posts/enforce-string-casing-in-typescript-creating-uppercase-lowercase-and-capitalized-string-types)
-- [Test Svelte Component Slot Using svelte-htm](https://vitaneri.com/posts/test-svelte-component-slot-using-svelte-htm)
-- [Code Splitting In React Using React.lazy and React.Suspense](https://vitaneri.com/posts/code-splitting-in-react-using-reactlazy-and-reactsuspense)
-- [Better React Context DX With Custom Provider And Consumer Hook](https://vitaneri.com/posts/better-react-context-dx-with-custom-provider-and-consumer-hook)
+- [Use Configurations From Tailwind In Vanilla CSS](https://vitaneri.com/posts/use-configurations-from-tailwind-in-vanilla-css/)
+- [Web Scraping On The Edge Using HTMLRewriter](https://vitaneri.com/posts/web-scraping-on-the-edge-using-htmlrewriter/)
+- [How To Remove The &quot;Clear All&quot; Button From Search Input](https://vitaneri.com/posts/how-to-remove-the-clear-all-button-from-search-input/)
+- [Enforce String Casing in TypeScript: Creating Uppercase, Lowercase, and Capitalized String Types](https://vitaneri.com/posts/enforce-string-casing-in-typescript-creating-uppercase-lowercase-and-capitalized-string-types/)
+- [Test Svelte Component Slot Using svelte-htm](https://vitaneri.com/posts/test-svelte-component-slot-using-svelte-htm/)
 <!-- BLOG-POST-LIST:END -->
 
 
