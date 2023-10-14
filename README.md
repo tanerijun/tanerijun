@@ -40,13 +40,13 @@ Welcome to my Github Profile
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Godot 4 Game Development Projects: Build five cross-platform 2D and 3D games using one of the most powerful open source game engines, 2nd Edition](https://www.goodreads.com/review/show/5811452809?utm_medium=api&utm_source=rss) by Chris Bradfield (⭐️)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
-- [Thinking, Fast and Slow](https://www.goodreads.com/review/show/5570694331?utm_medium=api&utm_source=rss) by Daniel Kahneman (⭐️4.17)
 - [JavaScript Data Structures and Algorithms: An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals](https://www.goodreads.com/review/show/5535016938?utm_medium=api&utm_source=rss) by Sammie Bae (⭐️3.68)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.4)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.39)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 - [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 - [用一天說歷史：從石器時代到數位時代，你的一天是人類累積的百萬年](https://www.goodreads.com/review/show/5053037550?utm_medium=api&utm_source=rss) by Greg  Jenner (⭐️3.62)
+- [Mastering React Test-Driven Development: Build simple and maintainable web apps with React, Redux, and GraphQL, 2nd Edition](https://www.goodreads.com/review/show/5043198998?utm_medium=api&utm_source=rss) by Daniel Irvine (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 
