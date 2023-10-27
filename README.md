@@ -38,7 +38,7 @@ Welcome to my Github Profile
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.89)
-- [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.56)
+- [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.54)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Godot 4 Game Development Projects: Build five cross-platform 2D and 3D games using one of the most powerful open source game engines, 2nd Edition](https://www.goodreads.com/review/show/5811452809?utm_medium=api&utm_source=rss) by Chris Bradfield (⭐️)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
