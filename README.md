@@ -38,7 +38,7 @@ Welcome to my Github Profile
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Accelerating Server-Side Development with Fastify: A comprehensive guide to API development for building a scalable backend for your web apps](https://www.goodreads.com/review/show/5939775662?utm_medium=api&utm_source=rss) by Manuel Spigolon (⭐️4.5)
-- [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.89)
+- [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.9)
 - [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.54)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Godot 4 Game Development Projects: Build five cross-platform 2D and 3D games using one of the most powerful open source game engines, 2nd Edition](https://www.goodreads.com/review/show/5811452809?utm_medium=api&utm_source=rss) by Chris Bradfield (⭐️)
