@@ -37,6 +37,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.04)
+- [Objective General English](https://www.goodreads.com/review/show/5968723468?utm_medium=api&utm_source=rss) by S.P. Bakshi (⭐️4.08)
 - [Accelerating Server-Side Development with Fastify: A comprehensive guide to API development for building a scalable backend for your web apps](https://www.goodreads.com/review/show/5939775662?utm_medium=api&utm_source=rss) by Manuel Spigolon (⭐️4.5)
 - [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.9)
 - [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.54)
@@ -45,8 +47,6 @@ Welcome to my Github Profile
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.39)
-- [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
-- [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.goodreads.com/review/show/5217523307?utm_medium=api&utm_source=rss) by Sebastian Springer (⭐️)
 <!-- GOODREADS-LIST:END -->
 
 
