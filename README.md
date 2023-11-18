@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.04)
 - [Objective General English](https://www.goodreads.com/review/show/5968723468?utm_medium=api&utm_source=rss) by S.P. Bakshi (⭐️4.08)
 - [Accelerating Server-Side Development with Fastify: A comprehensive guide to API development for building a scalable backend for your web apps](https://www.goodreads.com/review/show/5939775662?utm_medium=api&utm_source=rss) by Manuel Spigolon (⭐️4.5)
@@ -46,7 +47,6 @@ Welcome to my Github Profile
 - [Godot 4 Game Development Projects: Build five cross-platform 2D and 3D games using one of the most powerful open source game engines, 2nd Edition](https://www.goodreads.com/review/show/5811452809?utm_medium=api&utm_source=rss) by Chris Bradfield (⭐️)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
 - [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/review/show/5440775223?utm_medium=api&utm_source=rss) by Gayle Laakmann McDowell (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 
