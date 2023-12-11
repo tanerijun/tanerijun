@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身VIII」](https://www.goodreads.com/review/show/5408385904?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.75)
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
 - [Objective General English](https://www.goodreads.com/review/show/5968723468?utm_medium=api&utm_source=rss) by S.P. Bakshi (⭐️4.08)
@@ -46,7 +47,6 @@ Welcome to my Github Profile
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Godot 4 Game Development Projects: Build five cross-platform 2D and 3D games using one of the most powerful open source game engines, 2nd Edition](https://www.goodreads.com/review/show/5811452809?utm_medium=api&utm_source=rss) by Chris Bradfield (⭐️)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
-- [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.goodreads.com/review/show/5489006693?utm_medium=api&utm_source=rss) by Jonathan Calhoun (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 
