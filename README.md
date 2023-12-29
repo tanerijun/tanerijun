@@ -52,11 +52,11 @@ Welcome to my Github Profile
 
 ## ✍️ My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Redirect STDOUT and STDERR in Linux Shell](https://vitaneri.com/posts/redirect-stdout-and-stderr-in-linux-shell/)
 - [Preserve Case When Working With HTTP Headers in Go](https://vitaneri.com/posts/preserve-case-when-working-with-http-headers-in-go/)
 - [Use Configurations From Tailwind In Vanilla CSS](https://vitaneri.com/posts/use-configurations-from-tailwind-in-vanilla-css/)
 - [Web Scraping On The Edge Using HTMLRewriter](https://vitaneri.com/posts/web-scraping-on-the-edge-using-htmlrewriter/)
 - [How To Remove The &quot;Clear All&quot; Button From Search Input](https://vitaneri.com/posts/how-to-remove-the-clear-all-button-from-search-input/)
-- [Enforce String Casing in TypeScript: Creating Uppercase, Lowercase, and Capitalized String Types](https://vitaneri.com/posts/enforce-string-casing-in-typescript-creating-uppercase-lowercase-and-capitalized-string-types/)
 <!-- BLOG-POST-LIST:END -->
 
 
