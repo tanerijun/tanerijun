@@ -39,7 +39,7 @@ Welcome to my Github Profile
 <!-- GOODREADS-LIST:START -->
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.46)
 - [Objective General English for Competitive Exam SSC/ Banking/ Railways/CLAT/NDA/CDS/Insurance/GATE/UPSC/B.Ed/HOTEL MGHT)](https://www.goodreads.com/review/show/6057762926?utm_medium=api&utm_source=rss) by Disha Experts (⭐️3.5)
-- [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.26)
+- [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.25)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
