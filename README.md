@@ -45,7 +45,7 @@ Welcome to my Github Profile
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
 - [Objective General English](https://www.goodreads.com/review/show/5968723468?utm_medium=api&utm_source=rss) by S.P. Bakshi (⭐️4.08)
 - [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.88)
-- [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.55)
+- [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.56)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 <!-- GOODREADS-LIST:END -->
 
