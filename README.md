@@ -37,16 +37,16 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [薬屋のひとりごと [Kusuriya no Hitorigoto]](https://www.goodreads.com/review/show/6166358915?utm_medium=api&utm_source=rss) by Natsu Hyuuga (⭐️4.43)
+- [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.65)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.46)
-- [Objective General English for Competitive Exam SSC/ Banking/ Railways/CLAT/NDA/CDS/Insurance/GATE/UPSC/B.Ed/HOTEL MGHT)](https://www.goodreads.com/review/show/6057762926?utm_medium=api&utm_source=rss) by Disha Experts (⭐️3.5)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.25)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
-- [Objective General English](https://www.goodreads.com/review/show/5968723468?utm_medium=api&utm_source=rss) by S.P. Bakshi (⭐️4.08)
-- [Wandering Witch: The Journey of Elaina, Vol. 1 (light novel)](https://www.goodreads.com/review/show/5931196955?utm_medium=api&utm_source=rss) by Jougi Shiraishi (⭐️3.89)
 - [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.57)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
+- [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
 <!-- GOODREADS-LIST:END -->
 
 
