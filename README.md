@@ -44,9 +44,9 @@ Welcome to my Github Profile
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
-- [Let&apos;s Go](https://www.goodreads.com/review/show/5909552832?utm_medium=api&utm_source=rss) by Alex Edwards (⭐️4.57)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
+- [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.5)
 <!-- GOODREADS-LIST:END -->
 
 
