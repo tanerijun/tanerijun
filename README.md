@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.56)
 - [薬屋のひとりごと [Kusuriya no Hitorigoto]](https://www.goodreads.com/review/show/6166358915?utm_medium=api&utm_source=rss) by Natsu Hyuuga (⭐️4.43)
 - [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.66)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.46)
@@ -46,7 +47,6 @@ Welcome to my Github Profile
 - [Against Intellectual Monopoly](https://www.goodreads.com/review/show/5968723915?utm_medium=api&utm_source=rss) by Michele Boldrin (⭐️4.05)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/5266119959?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.13)
-- [Pixel Art for Game Developers](https://www.goodreads.com/review/show/4709437534?utm_medium=api&utm_source=rss) by Daniel Silber (⭐️3.5)
 <!-- GOODREADS-LIST:END -->
 
 
