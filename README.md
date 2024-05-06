@@ -42,7 +42,7 @@ Welcome to my Github Profile
 - [薬屋のひとりごと [Kusuriya no Hitorigoto]](https://www.goodreads.com/review/show/6166358915?utm_medium=api&utm_source=rss) by Natsu Hyuuga (⭐️4.44)
 - [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.67)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.46)
-- [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.25)
+- [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.24)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 - [Structure and Interpretation of Computer Programs](https://www.goodreads.com/review/show/5983307227?utm_medium=api&utm_source=rss) by Harold Abelson (⭐️4.46)
 - [Beginning Database Design Solutions by Rod Stephens (2008-11-10)](https://www.goodreads.com/review/show/5864896636?utm_medium=api&utm_source=rss) by Rod Stephens (⭐️)
