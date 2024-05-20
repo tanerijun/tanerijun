@@ -40,7 +40,7 @@ Welcome to my Github Profile
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.42)
 - [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.goodreads.com/review/show/6497275567?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.59)
 - [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.5)
-- [薬屋のひとりごと [Kusuriya no Hitorigoto]](https://www.goodreads.com/review/show/6166358915?utm_medium=api&utm_source=rss) by Natsu Hyuuga (⭐️4.44)
+- [薬屋のひとりごと [Kusuriya no Hitorigoto]](https://www.goodreads.com/review/show/6166358915?utm_medium=api&utm_source=rss) by Natsu Hyuuga (⭐️4.43)
 - [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.66)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.47)
 - [さくら荘のペットな彼女](https://www.goodreads.com/review/show/5742782900?utm_medium=api&utm_source=rss) by 鴨志田 一 (⭐️4.24)
