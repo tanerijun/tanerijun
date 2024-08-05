@@ -41,7 +41,7 @@ Welcome to my Github Profile
 - [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.goodreads.com/review/show/6497275567?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.59)
 - [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.48)
 - [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.66)
-- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.46)
+- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.47)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
 
