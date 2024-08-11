@@ -37,6 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Phaser by Example: Learn to create HTML video games with JavaScript](https://www.goodreads.com/review/show/6745809346?utm_medium=api&utm_source=rss) by Pello Xabier Altadill Izura (⭐️)
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.41)
 - [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.goodreads.com/review/show/6497275567?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.59)
 - [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.48)
