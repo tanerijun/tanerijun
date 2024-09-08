@@ -37,11 +37,9 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Phaser by Example: Learn to create HTML video games with JavaScript](https://www.goodreads.com/review/show/6745809346?utm_medium=api&utm_source=rss) by Pello Xabier Altadill Izura (⭐️)
+- [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/review/show/6826884156?utm_medium=api&utm_source=rss) by Stuart Russell (⭐️4.2)
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.41)
-- [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.goodreads.com/review/show/6497275567?utm_medium=api&utm_source=rss) by Gareth James (⭐️4.59)
 - [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.5)
-- [Broken Money: Why Our Financial System is Failing Us and How We Can Make it Better](https://www.goodreads.com/review/show/6166003727?utm_medium=api&utm_source=rss) by Lyn Alden (⭐️4.64)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.47)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
