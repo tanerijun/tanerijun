@@ -37,13 +37,13 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Ascendance of a Bookworm: Part 5 Volume 11](https://www.goodreads.com/review/show/7376459372?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.79)
+- [Ascendance of a Bookworm: Part 5 Volume 11](https://www.goodreads.com/review/show/7376459372?utm_medium=api&utm_source=rss) by Miya Kazuki (⭐️4.78)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/review/show/7307478697?utm_medium=api&utm_source=rss) by Cal Newport (⭐️4.05)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️5)
 - [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/review/show/6826884156?utm_medium=api&utm_source=rss) by Stuart Russell (⭐️4.2)
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.4)
-- [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.47)
+- [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.43)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.48)
 - [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
