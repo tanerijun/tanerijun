@@ -37,7 +37,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/review/show/7514269977?utm_medium=api&utm_source=rss) by Ali  Abdaal (⭐️3.94)
+- [Feel-Good Productivity: How to Do More of What Matters to You](https://www.goodreads.com/review/show/7514269977?utm_medium=api&utm_source=rss) by Ali  Abdaal (⭐️3.93)
 - [王勝忠老師的說話課：帶領孩子說得更好、更有自信，在課堂中學習，在生活中實踐，全面提升口語表達能力的40堂課 (Traditional Chinese Edition)](https://www.goodreads.com/review/show/7472430724?utm_medium=api&utm_source=rss) by 王勝忠 (⭐️)
 - [Vinland Saga Omnibus, Vol. 8](https://www.goodreads.com/review/show/7424791736?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐️4.53)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
