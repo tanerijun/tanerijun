@@ -21,7 +21,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.03)
+- [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.04)
 - [オーバーロード 2 漆黒の戦士 (Overlord, #2)](https://www.goodreads.com/review/show/7791410399?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.37)
 - [Vinland Saga Omnibus, Vol. 8](https://www.goodreads.com/review/show/7424791736?utm_medium=api&utm_source=rss) by Makoto Yukimura (⭐️4.53)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
