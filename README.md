@@ -22,7 +22,7 @@ Welcome to my Github Profile
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [オーバーロード 4 蜥蜴人の勇者たち (Overlord, #4)](https://www.goodreads.com/review/show/7971261683?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.25)
-- [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.03)
+- [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.04)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.09)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.29)
 - [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/review/show/6826884156?utm_medium=api&utm_source=rss) by Stuart Russell (⭐️4.2)
