@@ -21,7 +21,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [オーバーロード 5 王国の漢たち [上] (Overlord, #5)](https://www.goodreads.com/review/show/8002157670?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.35)
+- [オーバーロード 6 王国の漢たち[下] (Overlord, #6)](https://www.goodreads.com/review/show/8028862322?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.44)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.04)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.09)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.29)
