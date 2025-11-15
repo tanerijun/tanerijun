@@ -21,8 +21,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️4)
-- [オーバーロード 7 大墳墓の侵入者 (Overlord, #7)](https://www.goodreads.com/review/show/8034563365?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.37)
+- [オーバーロード 8 二人の指導者 (Overlord, #8)](https://www.goodreads.com/review/show/8070677072?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.26)
+- [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.99)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.04)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.29)
