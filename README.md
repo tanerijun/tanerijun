@@ -21,7 +21,8 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [オーバーロード 13 聖王国の聖騎士 下 (Overlord, #13)](https://www.goodreads.com/review/show/8163467677?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.47)
+- [Overlord The Vampire Princess of the Lost Country](https://www.goodreads.com/review/show/8174121208?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.3)
+- [オーバーロード14 滅国の魔女 (Overlord, #14)](https://www.goodreads.com/review/show/8174086262?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.32)
 - [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.99)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.05)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
@@ -30,7 +31,6 @@ Welcome to my Github Profile
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.36)
 - [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.43)
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/6077323980?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐️4.48)
-- [High Performance Browser Networking](https://www.goodreads.com/review/show/6051209156?utm_medium=api&utm_source=rss) by Ilya Grigorik (⭐️4.51)
 <!-- GOODREADS-LIST:END -->
 
 
