@@ -21,7 +21,7 @@ Welcome to my Github Profile
 
 ## 🤓 Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Overlord The Vampire Princess of the Lost Country](https://www.goodreads.com/review/show/8174121208?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.3)
+- [Overlord The Vampire Princess of the Lost Country](https://www.goodreads.com/review/show/8174121208?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.31)
 - [オーバーロード14 滅国の魔女 (Overlord, #14)](https://www.goodreads.com/review/show/8174086262?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.32)
 - [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️4)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.05)
