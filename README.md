@@ -25,7 +25,7 @@ Welcome to my Github Profile
 - [Overlord The Vampire Princess of the Lost Country](https://www.goodreads.com/review/show/8174121208?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.3)
 - [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️4)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.05)
-- [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
+- [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.09)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.12)
 - [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/review/show/6826884156?utm_medium=api&utm_source=rss) by Stuart Russell (⭐️4.2)
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.37)
