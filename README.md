@@ -2,24 +2,18 @@
 
 Welcome to my Github Profile
 
-## 💫 About Me
-// TODO
+## About Me
+// TODO: I'll fill this one day
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tanerijun&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanerijun&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanerijun&langs_count=10&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Counter
+![:tanerijun](https://count.getloli.com/get/@:tanerijun?theme=booru-vp)
 
 
-## 🥰 Moe Dose
-![:tanerijun](https://count.getloli.com/get/@:tanerijun?theme=rule34)
-
-
-## ✍️ Random Quote For You
+## Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🤓 Books I'm Reading
+## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [The Muscle Ladder: Get Jacked Using Science](https://www.goodreads.com/review/show/8392353652?utm_medium=api&utm_source=rss) by Jeff Nippard (⭐️4.6)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.73)
@@ -34,7 +28,7 @@ Welcome to my Github Profile
 <!-- GOODREADS-LIST:END -->
 
 
-## ✍️ My Recent Blog Posts
+## My Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Redirect STDOUT and STDERR in Linux Shell](https://vitaneri.com/posts/redirect-stdout-and-stderr-in-linux-shell/)
 - [Preserve Case When Working With HTTP Headers in Go](https://vitaneri.com/posts/preserve-case-when-working-with-http-headers-in-go/)
