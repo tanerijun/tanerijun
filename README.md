@@ -15,7 +15,7 @@ Welcome to my Github Profile
 
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.28)
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.27)
 - [The Muscle Ladder: Get Jacked Using Science](https://www.goodreads.com/review/show/8392353652?utm_medium=api&utm_source=rss) by Jeff Nippard (⭐️4.6)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.74)
 - [Overlord The Vampire Princess of the Lost Country](https://www.goodreads.com/review/show/8174121208?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.31)
