@@ -15,7 +15,7 @@ Welcome to my Github Profile
 
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
-- [Math Mind: The Simple Path to Loving Math](https://www.goodreads.com/review/show/8696931192?utm_medium=api&utm_source=rss) by Shalinee Sharma (⭐️4.14)
+- [Math Mind: The Simple Path to Loving Math](https://www.goodreads.com/review/show/8696931192?utm_medium=api&utm_source=rss) by Shalinee Sharma (⭐️4.13)
 - [Overlord, Volume 15: The Half-Elf Demigod Part I](https://www.goodreads.com/review/show/8239308460?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.02)
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.27)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.73)
