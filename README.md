@@ -16,10 +16,10 @@ Welcome to my Github Profile
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Math Mind: The Simple Path to Loving Math](https://www.goodreads.com/review/show/8696931192?utm_medium=api&utm_source=rss) by Shalinee Sharma (⭐️4.13)
-- [Overlord, Volume 15: The Half-Elf Demigod Part I](https://www.goodreads.com/review/show/8239308460?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.02)
+- [Overlord, Volume 15: The Half-Elf Demigod Part I](https://www.goodreads.com/review/show/8239308460?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.03)
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.27)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.73)
-- [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.97)
+- [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.98)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.07)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.3)
