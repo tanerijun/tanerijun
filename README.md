@@ -16,7 +16,6 @@ Welcome to my Github Profile
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Introduction To Probability](https://www.goodreads.com/review/show/8769340599?utm_medium=api&utm_source=rss) by Dimitri P. Bertsekas (⭐️4.29)
-- [Overlord, Volume 16: The Half-Elf Demigod Part II (Overlord, #16)](https://www.goodreads.com/review/show/8758636938?utm_medium=api&utm_source=rss) by Kugane Maruyama (⭐️4.3)
 - [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.27)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.72)
 - [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.97)
@@ -25,6 +24,7 @@ Welcome to my Github Profile
 - [Foundations of Computer Vision (Adaptive Computation and Machine Learning series)](https://www.goodreads.com/review/show/6838549592?utm_medium=api&utm_source=rss) by Antonio Torralba (⭐️4.3)
 - [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/review/show/6826884156?utm_medium=api&utm_source=rss) by Stuart Russell (⭐️4.21)
 - [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://www.goodreads.com/review/show/6510056336?utm_medium=api&utm_source=rss) by Jeremy   Howard (⭐️4.36)
+- [Learn Go With Tests](https://www.goodreads.com/review/show/6203244496?utm_medium=api&utm_source=rss) by Chris      James (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 
