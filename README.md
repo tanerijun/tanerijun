@@ -16,7 +16,7 @@ Welcome to my Github Profile
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
 - [Introduction To Probability](https://www.goodreads.com/review/show/8769340599?utm_medium=api&utm_source=rss) by Dimitri P. Bertsekas (⭐️4.29)
-- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.27)
+- [System Design Interview – An insider's guide](https://www.goodreads.com/review/show/7640076114?utm_medium=api&utm_source=rss) by Alex Xu (⭐️4.26)
 - [The Negotiation Book: Your Definitive Guide To Successful Negotiating](https://www.goodreads.com/review/show/8254427958?utm_medium=api&utm_source=rss) by Steve Gates (⭐️3.72)
 - [Talk: The Science of Conversation and the Art of Being Ourselves](https://www.goodreads.com/review/show/8041903509?utm_medium=api&utm_source=rss) by Alison Wood Brooks (⭐️3.97)
 - [Dr. STONE, Vol. 1](https://www.goodreads.com/review/show/7840391675?utm_medium=api&utm_source=rss) by Riichiro Inagaki (⭐️4.07)
