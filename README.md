@@ -15,6 +15,7 @@ Welcome to my Github Profile
 
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/8915462208?utm_medium=api&utm_source=rss) by Cal Newport (⭐️4.15)
 - [Understanding Deep Learning](https://www.goodreads.com/review/show/6716608747?utm_medium=api&utm_source=rss) by Simon J.D. Prince (⭐️4.68)
 - [Oh! My Useless Goddess! (Konosuba: God's Blessing on This Wonderful World! Light Novel, #1)](https://www.goodreads.com/review/show/7108417732?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
