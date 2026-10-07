@@ -17,7 +17,7 @@ Welcome to my Github Profile
 <!-- GOODREADS-LIST:START -->
 - [この素晴らしい世界に祝福を! 2 中二病でも魔女がしたい!](https://www.goodreads.com/review/show/8970913767?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.2)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/8915462208?utm_medium=api&utm_source=rss) by Cal Newport (⭐️4.15)
-- [Understanding Deep Learning](https://www.goodreads.com/review/show/6716608747?utm_medium=api&utm_source=rss) by Simon J.D. Prince (⭐️4.68)
+- [Understanding Deep Learning](https://www.goodreads.com/review/show/6716608747?utm_medium=api&utm_source=rss) by Simon J.D. Prince (⭐️4.67)
 <!-- GOODREADS-LIST:END -->
 
 
