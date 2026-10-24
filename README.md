@@ -15,6 +15,8 @@ Welcome to my Github Profile
 
 ## Books I'm Reading
 <!-- GOODREADS-LIST:START -->
+- [Android Smartphone Photography For Dummies](https://www.goodreads.com/review/show/9047620607?utm_medium=api&utm_source=rss) by Mark Hemmings (⭐️3.8)
+- [Pachinko](https://www.goodreads.com/review/show/9042920975?utm_medium=api&utm_source=rss) by Min Jin Lee (⭐️4.35)
 - [この素晴らしい世界に祝福を! 2 中二病でも魔女がしたい!](https://www.goodreads.com/review/show/8970913767?utm_medium=api&utm_source=rss) by Natsume Akatsuki (⭐️4.2)
 - [Understanding Deep Learning](https://www.goodreads.com/review/show/6716608747?utm_medium=api&utm_source=rss) by Simon J.D. Prince (⭐️4.68)
 <!-- GOODREADS-LIST:END -->
